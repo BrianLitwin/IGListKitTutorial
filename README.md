@@ -1,3 +1,3 @@
-# igLitKitTutorial
+# IGListKitTutorial
 
-Ray Wenderlich tutorial on IGListKit 
+Ray Wenderlich tutorial on IGListKit
