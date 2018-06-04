@@ -7,7 +7,7 @@
 		<key>IGListKit.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Pods-Marslink.xcscheme</key>
 		<dict>

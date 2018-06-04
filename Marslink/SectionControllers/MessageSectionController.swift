@@ -21,7 +21,7 @@ class MessageSectionController: IGListSectionController {
 
 extension MessageSectionController: IGListSectionType {
     func numberOfItems() -> Int {
-        return 2
+        return 1
     }
     func sizeForItem(at index: Int) -> CGSize {
         guard let context = collectionContext else { return .zero }
